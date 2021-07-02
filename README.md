@@ -15,6 +15,3 @@ usage: python create_dataset.py
 
 Please Refer: "H.Mandalapu R. Raghavednra and C. Busch, Multilingual Voice Impersonation Dataset and Evaluation, 3rd International Conference on Intelligent Technologies and Applications (INTAP) 2020 Gjøvik, Norway."
 
-contact: 
-Hareesh Mandalapu
-Email: hareesh.mandalapu@ntnu.no
